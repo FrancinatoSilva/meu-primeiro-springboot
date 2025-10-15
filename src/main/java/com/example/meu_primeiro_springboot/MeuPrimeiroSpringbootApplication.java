@@ -10,4 +10,6 @@ public class MeuPrimeiroSpringbootApplication {
 		SpringApplication.run(MeuPrimeiroSpringbootApplication.class, args);
 	}
 
+
+
 }
